@@ -9,7 +9,7 @@
 🔭 I’m currently learning Full Stack Web Developer<br><br>
 👨‍💻 All of my projects are available at <a href="https://chandan2812.github.io/">My Portfolio</a><br><br>
 📫 How to reach me **chandanpms@gmail.com**<br><br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1RMoEAsgKFpkJU4nqDD4LxMWNvOH6Q6WX/view?usp=share_link">Resume</a>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1npf9juTxWWEifvuncpiDXpfEu3ZSxRRD/view?usp=sharing">Resume</a>
 
 
 ## 🌐 Socials:
